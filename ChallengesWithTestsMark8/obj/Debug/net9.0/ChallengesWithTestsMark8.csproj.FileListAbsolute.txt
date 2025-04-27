@@ -1,0 +1,15 @@
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.deps.json
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.dll
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net9.0/ChallengesWithTestsMark8.pdb
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.sourcelink.json
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.dll
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/refint/ChallengesWithTestsMark8.dll
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.pdb
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/biancamargiotta/Desktop/Geoffrey/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net9.0/ref/ChallengesWithTestsMark8.dll
