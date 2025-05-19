@@ -33,13 +33,13 @@ namespace ChallengesWithTestsMark8.Tests
             string nonLetters = "0123456789`~!@#$%^&*()-_=+[{]}\\|;:'\",<.>/?\u2222";
 
             // Check all letters
-            foreach (char letter in nonLetters)
+            foreach (char c in nonLetters)
             {
                 // Act
-                bool actual = challenger.CharacterIsALetter(letter);
+                bool actual = challenger.CharacterIsALetter(c);
 
                 // Assert
-                Assert.False(actual);
+                Assert.False(actual, $"Expected false for '{c}', but got true.");
             }
         }
 
